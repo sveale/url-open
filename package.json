@@ -2,7 +2,7 @@
   "name": "url-open",
   "main": "./lib/url-open",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Download url on clipboard and open in atom",
   "keywords": [
   ],
   "activationCommands": {
